@@ -36,3 +36,6 @@ o Model.pickle -> save the best model on validation data
 ▪ Multis.py -> Utils class
 
 ▪ Train_nli.py -> training process of the model
+
+
+![Project Report](/Output_Report/NLP_REPORT_HXV180001.pdf)
