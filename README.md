@@ -26,8 +26,13 @@ o Stsa
 - S1.train -> training data
 
 ▪ Savedir
+
 o Model.pickle -> save the best model on validation data 
+
 ▪ Data.py -> data processing
+
 ▪ Models.py -> main structure of the model
+
 ▪ Multis.py -> Utils class
-▪ Train_nli.py # training process of the model
+
+▪ Train_nli.py -> training process of the model
